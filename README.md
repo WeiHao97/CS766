@@ -1,4 +1,6 @@
 # CS766
+------
+follow INSTALL.md to setup the environment and run demo to see result
 ------------------
 Demo is located in demo/Mask_R-CNN_demo-PerformancesNumberBased.ipynb
 
